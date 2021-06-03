@@ -1,0 +1,381 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Poets address to the Honourable Sir Charles Duncomb, Knight, and alderman of the city of London</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28229</idno><idno type="EEBO-CITATION">10595035</idno>
+  <idno type="VID">204724</idno>
+  <idno type="EEBO-PROQUEST">2240854021</idno>
+  
+            <idno type="STC">Wing P2738A</idno>
+            <idno type="OCLC">10595035</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28229)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Poets address to the Honourable Sir Charles Duncomb, Knight, and alderman of the city of London</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Duncombe, Charles, --  Sir, d. 1711 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:204724:1"/>
+            <pb facs="tcp:204724:1"/>
+            <p>THE POETS ADDRESS To the Honourable Sir Charles Duncomb.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:204724:2"/>
+            <pb facs="tcp:204724:2"/>
+            <p>The POET'S ADDRESS To the Honourable Sir Charles Duncomb, Knight, and Alderman OF THE CITY of LONDON.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year MDCC.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:204724:3"/>
+            <pb n="3" facs="tcp:204724:3"/>
+            <head>THE POETS ADDRESS To the Honourable Sir Charles Duncomb.</head>
+            <lg>
+               <l>THE fair <hi>Augusta</hi> of all Lands the Pride,</l>
+               <l>And Wonder of the Gazing World beside;</l>
+               <l>The fair <hi>Augusta</hi> heretofore could Boast,</l>
+               <l>Of noble <hi>Praetors</hi> at their proper Cost:</l>
+               <l>Men Wise in Council, as for Wealth renown'd,</l>
+               <l>And with the Praises of their People crown'd.</l>
+               <l>Whose well-spread Tables Dishes did a<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d,</l>
+               <l>Equal in Plenty to a Potent Lord:</l>
+               <l>Whose Kitchins were no <hi>Ordinarys</hi> then,</l>
+               <l>To Treat at their own Charge the <hi>Liv'ry Men.</hi>
+               </l>
+               <l>Who for the Dinner they had got at Noon</l>
+               <l>Pay in the Evening with a Silver <hi>Spoon;</hi>
+               </l>
+               <l>As finely Guilt as Dr. Quack's fam'd Pills,</l>
+               <l>Which fills so many of our Weekly Bills.</l>
+               <l>They were not open-handed to receive,</l>
+               <l>But their ennobl'd Talent was to give.</l>
+            </lg>
+            <pb n="4" facs="tcp:204724:4"/>
+            <lg>
+               <l>And such is yours whose brighter Virtues are</l>
+               <l>Of the same Stamp, your Predecessors were;</l>
+               <l>I mean not those of a more Modern Date,</l>
+               <l>Who kept their Feasts upon a single Plate</l>
+               <l>Whose <hi>Shreival</hi> Board produc'd a Bill of Fare,</l>
+               <l>
+                  <hi>Nine Pence per Diem</hi> thro' the gaudy Year;</l>
+               <l>Who chew'd the Cud instead of wholsom Meat,</l>
+               <l>And thought it was Original Sin to Eat;</l>
+               <l>Lord! What a goodly Time had Cocks and Hens,</l>
+               <l>The Calves were safe within our <hi>Smithfield</hi> Pens.</l>
+               <l>No Foes from City Halls did them Invade,</l>
+               <l>The Butchers had almost forgot their Trade.</l>
+               <l>The Godly Folk deem'd every Man a Beast,</l>
+               <l>A Wicked Glutton, who proclaim'd a Feast.</l>
+               <l>The Bucks grew wilder and forsook their Mounds,</l>
+               <l>And quite unlearnt the Opening of the Hounds▪</l>
+               <l>These Pious Times in which dark Plots were rife,</l>
+               <l>And Men Eat <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ion to support their Life;</l>
+               <l>To open Venison Pasty no Man durst,</l>
+               <l>For fear of Plotters underneath the Crust.</l>
+               <l>So cautious were they of preserving Life,</l>
+               <l>They quite forgot the Use of Fork and Knife.</l>
+               <l>Self-Preservation did Improve their Skill,</l>
+               <l>They'd use no Weapons which would wound or kill.</l>
+               <l>Still in their Food some hidden Mischief smoak'd,</l>
+               <l>They wou'd not Eat for fear they shou'd be choak'd.</l>
+               <l>Their Cupboard founder'd does to pieces fall</l>
+               <l>And Good Boil'd Beef becomes Apocryphal.</l>
+               <pb n="5" facs="tcp:204724:4"/>
+               <l>No racy Wine their duller Hearts united,</l>
+               <l>And honourable <hi>Sir-Loyn</hi> was Unknighted;</l>
+               <l>They were to any honest Mortals thinking,</l>
+               <l>Green Schismaticks in Eating and in Drinking.</l>
+            </lg>
+            <lg>
+               <l>Now Vilest Avarice usurp'd the Place</l>
+               <l>Of Charity, and Vice supplanted Grace.</l>
+               <l>Frugality's a Grace they ne'er did want,</l>
+               <l>For every Niggard was esteem'd a Saint.</l>
+               <l>That sober Party, who did others Mock;</l>
+               <l>And ne'er were drunk but on the Publick Stock,</l>
+               <l>At their own Tables are extremely Nice,</l>
+               <l>And make Good Eating an Enormous Vice;</l>
+               <l>Can when on Free-Cost gormandize the Best,</l>
+               <l>And feed as much like Gluttons as the rest.</l>
+            </lg>
+            <lg>
+               <l>But you pursue the Methods as of old,</l>
+               <l>When Men did use, not Idolize their Gold,</l>
+               <l>When City <hi>May'rs,</hi> and <hi>Sheriffs</hi> of Request,</l>
+               <l>Dissolv'd the Winters in continual Feast;</l>
+               <l>Whose Kitchins Heat did shivering Mortals Warm,</l>
+               <l>What the far distant Sun could not perform.</l>
+               <l>You on their Dressers every Day might see,</l>
+               <l>The Nations Wealth in an Epitomy.</l>
+               <l>Nor only did our Dainties fill their Board,</l>
+               <l>But generous Wines Imported from abroad,</l>
+               <l>Their daily Revels and their Banquets crown'd,</l>
+               <l>Whilst fair <hi>Augusta</hi>'s Health went round.</l>
+            </lg>
+            <pb n="4" facs="tcp:204724:5"/>
+            <lg>
+               <l>If you when <hi>Sheriff</hi> did such Feasts prepare,</l>
+               <l>What will you do when once elected <hi>May'r?</hi>
+               </l>
+               <l>If such great Treatment from the <hi>Sheriff</hi> comes</l>
+               <l>We from the <hi>May'r</hi> expect whole Hecatombs?</l>
+               <l>The Sober Party say, you will undo 'em,</l>
+               <l>And sad Example of Profuseness shew 'em;</l>
+               <l>For should you ever thus debauch their Gullets,</l>
+               <l>You'l make a Dearth of Capons and of Pullets:</l>
+               <l>We'll by such Slaughters with Destruction meet,</l>
+               <l>And want both Beef and Pork to serve the <hi>Fleet;</hi>
+               </l>
+               <l>Your Wine and Meat will cause a double Pain,</l>
+               <l>O'er charge their Stomachs, and disturb their Brain.</l>
+               <l>For Wine in <hi>Noddle</hi> as in <hi>Ship</hi> is tost,</l>
+               <l>And bounc'd alas from Pillow unto Post;</l>
+               <l>Cast on the Rocks by Seas which loudly Roar,</l>
+               <l>And here disgorg'd into the Common Shoar:</l>
+               <l>Wine makes Indentures, and what's worst of all,</l>
+               <l>Makes the most upright Mortal downwards fall,</l>
+               <l>When tho' no Limbs are broke, or Sculls are torn,</l>
+               <l>It often Damage does to strongest Horn;</l>
+               <l>For sad Disasters happen in the Fight,</l>
+               <l>Where Head's too heavy, and the Heells too light.</l>
+               <l>Thus who's beholding for a Sumptuous Dinner,</l>
+               <l>Which turns a Saint into a very Sinner.</l>
+               <l>Who after such Insatiate Wicked Poring,</l>
+               <l>Forgets the <hi>Wife,</hi> and runs to <hi>Miss</hi> a Whoring,</l>
+               <l>Or by replenish'd Nature is beguil'd,</l>
+               <l>At his own Charge gets his own Wife with Child.</l>
+            </lg>
+            <pb n="7" facs="tcp:204724:5"/>
+            <lg>
+               <l>'Tis not for <hi>Poets</hi> to dispute Elections,</l>
+               <l>Or Troubles raise by Scandalous Reflections;</l>
+               <l>We for <hi>Parnassus</hi> chuse no Lordly <hi>May'r,</hi>
+               </l>
+               <l>Or ever vote to fill the vacant Chair;</l>
+               <l>Tho in this Age we Schismatick's are grown,</l>
+               <l>And would for <hi>Claret</hi> change our <hi>Hellicon.</hi>
+               </l>
+               <l>We love not Mony but to buy us Drink,</l>
+               <l>And always Mump for Paper, Pens and Ink;</l>
+               <l>With which, and of <hi>Canary</hi> a Good Cup,</l>
+               <l>Is a Good Stock to set a Poet up.</l>
+               <l>We know no difference 'twixt a <hi>Guild-hall</hi> Pole,</l>
+               <l>And those round which the wand'ring Stars do Role;</l>
+               <l>But yet we know th' Opinion of the Gods,</l>
+               <l>
+                  <hi>Who give the Choice to him that has the Odds;</hi>
+               </l>
+               <l>Were we to Vote I certainly do think,</l>
+               <l>We should Elect such as would make us Drink.</l>
+               <l>Such as would give us Meat without Disdain,</l>
+               <l>The fittest Props to fortify the Brain:</l>
+               <l>Deny us such Assistance, Sirs, and then</l>
+               <l>Poets as stupid are as other Men;</l>
+               <l>They dully will the <hi>Mases</hi> Chariot draw,</l>
+               <l>As for Example, Brother <hi>Elkanah;</hi>
+               </l>
+               <l>Who long Time has from Rules of Reason swerv'd,</l>
+               <l>And underneath his glorious <hi>Pageants</hi> starv'd:</l>
+               <l>Who mounts no higher than a few dull Speeches;</l>
+               <l>Not from his Brain, but voided in his Breeches;</l>
+               <l>And those the best upon a Poets Word,</l>
+               <l>He can from such Encouragement Afford.</l>
+            </lg>
+            <pb n="8" facs="tcp:204724:6"/>
+            <lg>
+               <l>How sad's the State of every Mortal <hi>Cit,</hi>
+               </l>
+               <l>A Dearth of Victuals, and a Dearth of Wit;</l>
+               <l>While we such Good Accommodations want,</l>
+               <l>Old <hi>London</hi> is again turn'd <hi>Troynovant.</hi>
+               </l>
+               <l>The <hi>Muses</hi> State is settl'd not at all,</l>
+               <l>But like the Stocks, does either rise or fall;</l>
+               <l>Sometimes we raise our Thoughts in Notes sublime,</l>
+               <l>And half way up <hi>Parnassus</hi> Mount do climb;</l>
+               <l>But then descending with uneven pace,</l>
+               <l>For want of Ammunition quit the Place.</l>
+               <l>Time was, alas! but in the Days of Yore,</l>
+               <l>When <hi>London</hi>'s Soil sublimest fancies bore.</l>
+               <l>When thence the <hi>Muses</hi> did their Minious take,</l>
+               <l>And every <hi>Prentice</hi> could a <hi>Ballad</hi> make;</l>
+               <l>And Songs compos'd by <hi>Poets</hi> Grave and Wise,</l>
+               <l>At <hi>Christmas,</hi> plenty were as <hi>Christmas Pies.</hi>
+               </l>
+               <l>But now to Learning we have no pretence;</l>
+               <l>Bankrupt in Trade, in Poetry and Sense.</l>
+            </lg>
+            <lg>
+               <l>Will no kind <hi>Magistrate</hi> our Griefs redress,</l>
+               <l>And vouchsafe Life unto Immortal Verse.</l>
+               <l>How awkardly shall we a <hi>Christmas</hi> keep?</l>
+               <l>Our Muse will slumber, and our Senses Sleep.</l>
+               <l>If no Good Patriot at that time encourage,</l>
+               <l>Islands of Meat in Oceans of Plumb-porridge;</l>
+               <l>Which makes the Jolly Citizens rejoyce,</l>
+               <l>And tune their Throats in a melodious Noise.</l>
+               <l>Instead of Meat we now must suck our Fingers;</l>
+               <l>The Poets starv'd, and whipt the Ballad-singers.</l>
+               <pb n="9" facs="tcp:204724:6"/>
+               <l>If once in <hi>London</hi> we should play the Fool,</l>
+               <l>Our Land is grown incorrigibly dull.</l>
+               <l>Now both the <hi>Ʋniversities</hi> are broke,</l>
+               <l>And can't afford the <hi>Nine</hi> one tuneful stroke;</l>
+               <l>Whose Songs of late on <hi>Dryden</hi> plainly told,</l>
+               <l>Their Wit is shrivl'd, and their Brains are cold;</l>
+               <l>No Verse exalted, and no Thoughts Divine,</l>
+               <l>Th' Effects of <hi>Water-gruel</hi> not of <hi>Wine.</hi>
+               </l>
+               <l>
+                  <hi>Apollo</hi> now disowns 'em for his Sons,</l>
+               <l>And from their disinspired Mansions runs:</l>
+               <l>Yet would make <hi>London</hi> his most blest Abode,</l>
+               <l>Had he but Grace to entertain the <hi>God.</hi>
+               </l>
+               <l>Here would erect his high Imperial Seat;</l>
+               <l>And as in Wealth, in Wisdom make us Great.</l>
+            </lg>
+            <lg>
+               <l>It is resolv'd, and by the <hi>God</hi> decreed;</l>
+               <l>The Times shall mend when <hi>Du<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>comb</hi> shall succeed.</l>
+               <l>He Good Presages gave of peaceful Sway,</l>
+               <l>And mark'd the Tract, where Virtue led the Way.</l>
+               <l>Enfeebl'd <hi>Charity,</hi> grown Stiff and Cold,</l>
+               <l>He brought to Life by showr's of Liquid <hi>Gold;</hi>
+               </l>
+               <l>His Bounty more Extensive than the Sun,</l>
+               <l>Did not o'er Hills and lofty Mountains run;</l>
+               <l>But dark Recesses of the <hi>Prisons</hi> warm'd,</l>
+               <l>And drooping Spirits with his <hi>Bounty</hi> charm'd.</l>
+               <l>He <hi>Ludgate</hi>'s Hell did Bless with Rays of Light,</l>
+               <l>Where Shackl'd Souls keep an Eternal Night;</l>
+               <l>Cag'd up like Birds to sing the Infamy</l>
+               <l>Of <hi>Creditors,</hi> and their own <hi>Elegy:</hi>
+               </l>
+               <pb n="10" facs="tcp:204724:7"/>
+               <l>These he let fly, and set upon the Wing,</l>
+               <l>Who now for ever will his Praises Sing:</l>
+               <l>In vain do Niggard Saints their Virtues Cant,</l>
+               <l>While they extensive Charity do want.</l>
+            </lg>
+            <lg>
+               <l>Methinks I see of his good Reign a Scene,</l>
+               <l>Tho with a Space of Twelve sad Months between,</l>
+               <l>In which <hi>Augusta</hi> is again in State,</l>
+               <l>Reviv'd in Pomp, magnificently Great:</l>
+               <l>In which her lively <hi>Children</hi> do appear,</l>
+               <l>Blest with such Features as their Fathers were.</l>
+               <l>Greaz'd with his Oyl, each <hi>Bacchus</hi> Cheeks do's shine,</l>
+               <l>Plump'd up with Bumpers of his Racy Wine;</l>
+               <l>To grace his Court the wretched do advance,</l>
+               <l>The Orphans Singing, as the Widows Dance.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Poets</hi> like <hi>Batts,</hi> this tedious <hi>Winter</hi> dwell,</l>
+               <l>In some retir'd and Melancholly <hi>Cell.</hi>
+               </l>
+               <l>But like the <hi>Swallows</hi> will Arise and Sing,</l>
+               <l>At the Approach of his more fragrant <hi>Spring.</hi>
+               </l>
+               <l>When <hi>Duncomb</hi> gives to Gladness a new Birth,</l>
+               <l>And like the Sun replenishes the Earth.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204724:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
